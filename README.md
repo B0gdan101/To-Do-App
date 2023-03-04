@@ -2,4 +2,4 @@
 
 ## About
 
-**This simple web app provides details about the weather in the specified location.**
+**This simple web app helps you keep track of your daily tasks.**
